@@ -11,6 +11,8 @@ Please interact with the script's in this order:
 "Top 10 Shows by Country.ipynb", 
 "Top 20 Shows by Genre.ipynb"
 
+*You may ignore the file: Michael_interactive_script.ipynb*
+
 Summary of each Script's Purpose and Function:
 
 "Jade_Interactive.ipynb" : <insert Jade's Summary here>
