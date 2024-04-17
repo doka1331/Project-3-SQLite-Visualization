@@ -3,6 +3,7 @@
 In this project, we decided to analyze the movie/TV show streaming platform of Netflix, a multi-billion dollar company that offers its users
 access to some of the top rated shows and movies in the nation. Using a dataset of Netflix's top 246 rated shows, we did an in-depth analysis
 to see what exactly holds the key to Netflix's continued and prolonged success as the world's go-to streaming platform. 
+There were no ethical data restrictions as this Netflix dataset is publicly available information with no API requirements.
 
 Please interact with the script's in this order:
 
