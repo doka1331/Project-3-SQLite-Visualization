@@ -20,3 +20,9 @@ Summary of each Script's Purpose and Function:
 Within this script, you will see a non-interactive bar-graph that shows each genre and it's respective averaged vote count total and then below it you should be able 
 to see the top 10 ranked shows within the dataset. Below that cell, there exists an interactive cell that, when inputted with a Netflix title, will output the respective
 title's information and the aggregated total vote count that respective show recieved; then the user can compare that to the bar-graph above. 
+
+
+"Top 10 Shows By Coungry.ipynb" : <insert Tyler's Summary here>
+
+
+"Top 20 Shows by Genre.ipynb" : <insert Tyler's Summary here>
