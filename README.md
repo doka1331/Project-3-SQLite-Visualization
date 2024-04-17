@@ -6,9 +6,9 @@ to see what exactly holds the key to Netflix's continued and prolonged success a
 
 Please interact with the script's in this order:
 
-"Jade_Interactive.ipynb"
-"show_demo_info_script.ipynb"
-"Top 10 Shows by Country.ipynb"
+"Jade_Interactive.ipynb", 
+"show_demo_info_script.ipynb", 
+"Top 10 Shows by Country.ipynb", 
 "Top 20 Shows by Genre.ipynb"
 
 Summary of each Script's Purpose and Function:
