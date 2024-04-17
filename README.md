@@ -36,7 +36,7 @@ References for "Top 10 Shows by Country.ipynb" : <Insert Tyler's references here
 
 "Top 20 Shows by Genre.ipynb" : <insert Tyler's Summary here
 
-Refereneces for "Top 20 Shows by Genre.ipynb" : <insert Tyler's references here
+References for "Top 20 Shows by Genre.ipynb" : <insert Tyler's references here
 
 
 Data-Set Reference/Link for download : < insert data set reference here 
