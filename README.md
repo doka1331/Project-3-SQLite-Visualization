@@ -37,7 +37,7 @@ with the Seaborn library and incorporate that into my widget. Link to website: *
   I then created the button function, ensured that the output is cleared every time, then called the “topshows” function. Then I created a list of button objects, and finally made sure to display the buttons vertically so it would look clean and clear. Finally, we output the widget to complete the code.
 
 
-References for "Top 10 Shows by Country.ipynb" and "Top 20 Shows by Genre.ipynb" : Class codes; ChatGPT 4.0; StackOverflow; IPywidgets; GitHub; Jupyter Community Forum; Discourse.Bokeh
+References for "Top 10 Shows by Country.ipynb" and "Top 20 Shows by Genre.ipynb" : Class codes; StackOverflow; IPywidgets; GitHub; Jupyter Community Forum; Discourse.Bokeh
 
 
 Data-Set Reference/Link for download : *https://www.kaggle.com/datasets/thedevastator/netflix-top-rated-movies-and-tv-shows-2020-2022?select=Best+Shows+Netflix.csv*  
