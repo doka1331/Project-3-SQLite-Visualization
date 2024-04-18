@@ -26,7 +26,7 @@ to see the top 10 ranked shows within the dataset. Below that cell, there exists
 title's information and the aggregated total vote count that respective show recieved; then the user can compare that to the bar-graph above. 
 
 References for "show_demo_info_script.ipynb" : I used ChatGPT Version 3.5 to help me generate an initial and bare-bones ipywidget function with the necessary interactions. I did this by asking ChatGPT to create a widget that will take in an inputted movie title 
-and spit out information about that chosen title. I also used ChatGPT to get an understanding of the syntax regarding Seaborn, ie. how to create barplots
+and return information about that chosen title. I also used ChatGPT to get an understanding of the syntax regarding Seaborn, ie. how to create barplots
 with the Seaborn library and incorporate that into my widget. Link to website: *https://chat.openai.com/*
 
 "Top 10 Shows By Country.ipynb" : In order to analyze the data in a practical and efficient manner, I chose to provide the top 10 shows by country as my first visualization. There were a total of 18 countries in the dataset (top 246 Netflix shows) so this should provide a good mix of shows per country. I began by creating a dictionary that contained all the countries. I then stored the actual names of the countries instead of the ISO 3166 codes that were provided on the dataset. This will make it much easier for the user to be able to input specific countries.
