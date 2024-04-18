@@ -26,7 +26,7 @@ to see the top 10 ranked shows within the dataset. Below that cell, there exists
 title's information and the aggregated total vote count that respective show recieved; then the user can compare that to the bar-graph above. 
 
 References for "show_demo_info_script.ipynb" : I used ChatGPT Version 3.5 to help me generate an initial ipywidget function that would help me create the necessary 
-widget for interaction. I did this by giving ChatGPT a snippet of my pandas dataframe and asking it to create a widget that will take in an inputted movie title 
+widget for interaction. I did this by asking ChatGPT to create a widget that will take in an inputted movie title 
 and spit out information about that chosen title. I also used ChatGPT to get an understanding of the syntax regarding Seaborn and how to create barplots
 with the Seaborn library and incorporate that into my widget. Link to website: *https://chat.openai.com/*
 
