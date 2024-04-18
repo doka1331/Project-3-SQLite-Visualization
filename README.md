@@ -40,4 +40,5 @@ with the Seaborn library and incorporate that into my widget. Link to website: *
 References for "Top 10 Shows by Country.ipynb" and "Top 20 Shows by Genre.ipynb" : Class codes; ChatGPT 4.0; StackOverflow; IPywidgets; GitHub; Jupyter Community Forum; Discourse.Bokeh
 
 
-Data-Set Reference/Link for download : < insert data set reference here 
+Data-Set Reference/Link for download : *https://www.kaggle.com/datasets/thedevastator/netflix-top-rated-movies-and-tv-shows-2020-2022?select=Best+Shows+Netflix.csv*  
+(specifically "Best Shows Netflix.csv")
