@@ -25,7 +25,7 @@ Within this script, you will see a non-interactive bar-graph that shows each gen
 to see the top 10 ranked shows within the dataset. Below that cell, there exists an interactive cell that, when inputted with a Netflix title, will output the respective
 title's information and the aggregated total vote count that respective show recieved; then the user can compare that to the bar-graph above. 
 
-References for "show_demo_info_script.ipynb" : I used ChatGPT Version 3.5 to help me generate an initial and bare-bones ipywidget function that with the necessary interactions. I did this by asking ChatGPT to create a widget that will take in an inputted movie title 
+References for "show_demo_info_script.ipynb" : I used ChatGPT Version 3.5 to help me generate an initial and bare-bones ipywidget function with the necessary interactions. I did this by asking ChatGPT to create a widget that will take in an inputted movie title 
 and spit out information about that chosen title. I also used ChatGPT to get an understanding of the syntax regarding Seaborn and how to create barplots
 with the Seaborn library and incorporate that into my widget. Link to website: *https://chat.openai.com/*
 
