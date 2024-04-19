@@ -38,18 +38,13 @@ with the Seaborn library and incorporate that into my widget. Link to website: *
 
 
 References for "Top 10 Shows by Country.ipynb" and "Top 20 Shows by Genre.ipynb" :
-•	Class Codes
-•	Personal Codes (converting CSV to SQLite)
 •	General Seaborn Info: https://seaborn.pydata.org/generated/seaborn.barplot.html
 •	Barplot format and labels: https://stackoverflow.com/questions/44861539/barplot-label-individual-bars-with-their-height-matplotlib-python
 •	Annotate barplots: https://stackoverflow.com/questions/57203871/put-significance-asterisks-in-the-horizontal-middle-of-each-bar-in-a-barplot
-•	Annotate barplots: https://www.geeksforgeeks.org/how-to-annotate-bars-in-barplot-with-matplotlib-in-python/
 •	Seaborn interactivity: https://www.tutorialspoint.com/how-can-we-use-seaborn-for-interactive-visualization
 •	General seaborn visualization info: https://medium.com/geekculture/python-seaborn-statistical-data-visualization-in-plot-graph-f149f7a27c6e
 •	Widgets: https://ipywidgets.readthedocs.io/en/stable/examples/Widget%20Events.html
 •	Widgets: https://ipywidgets.readthedocs.io/en/latest/examples/Widget%20List.html
-•	Python coding examples: https://www.analyticsvidhya.com/blog/2021/10/interactive-plots-in-python-with-plotly-a-complete-guide/
-•	Widgets: https://anywidget.dev/en/jupyter-widgets-the-good-parts/
 
 Data-Set Reference/Link for download : *https://www.kaggle.com/datasets/thedevastator/netflix-top-rated-movies-and-tv-shows-2020-2022?select=Best+Shows+Netflix.csv*  
 (specifically "Best Shows Netflix.csv")
